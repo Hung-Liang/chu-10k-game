@@ -16,10 +16,16 @@ let activeBalls = [];
 const maxBalls = 200;
 
 const subscriberImagesConfig = [
-    { url: "asset/sub/0.png", width: 0, height: 0 },
-    // { url: "asset/sub/1.png", width: 0, height: 0 },
-    // { url: "asset/sub/2.png", width: 0, height: 0 },
-    // { url: "asset/sub/3.png", width: 0, height: 0 },
+    // { url: "asset/sub/0.png", width: 0, height: 0 },
+    { url: "asset/sub/1.png", width: 0, height: 0 },
+    { url: "asset/sub/2.png", width: 0, height: 0 },
+    { url: "asset/sub/3.png", width: 0, height: 0 },
+    { url: "asset/sub/4.png", width: 0, height: 0 },
+    { url: "asset/sub/5.png", width: 0, height: 0 },
+    { url: "asset/sub/6.png", width: 0, height: 0 },
+    { url: "asset/sub/7.png", width: 0, height: 0 },
+    { url: "asset/sub/8.png", width: 0, height: 0 },
+    { url: "asset/sub/9.png", width: 0, height: 0 },
 ];
 const ballRadius = 30;
 
