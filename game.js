@@ -13,7 +13,7 @@ let lastIntegerSubscribers = 0;
 
 let engine, render, runner;
 let activeBalls = [];
-const maxBalls = 200;
+const maxBalls = 800;
 
 const subscriberImagesConfig = [
     // { url: "asset/sub/0.png", width: 0, height: 0 },
